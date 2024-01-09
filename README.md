@@ -73,9 +73,6 @@
 ## My GitHub Stats
 [![Shraddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shraddhasingh171&count_private=true&show_icons=true&theme=dracula)](https://github.com/Shraddhasingh171/)
 
-![Shraddha's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shraddhasingh171&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
-
-
 <table>
   <tr>
     <td>
