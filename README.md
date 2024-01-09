@@ -28,3 +28,8 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
+
+
+
+
+[![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shraddhasingh171&count_private=true&show_icons=true&theme=dracula)](https://github.com/Shraddhasingh171/)
