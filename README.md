@@ -1,7 +1,7 @@
+<h1 align="center">👋 Hi, I’m @Shraddhasingh171 </h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shraddhasingh171&label=Profile%20views&color=0e75b6&style=flat" alt="Shraddhasingh171" /> 
 <img src="https://badges.pufler.dev/commits/monthly/Shraddhasingh171" />•
-
-<h1 align="center">👋 Hi, I’m @Shraddhasingh171 </h1>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
