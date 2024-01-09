@@ -1,4 +1,4 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shraddhasingh171&label=Profile%20views&color=0e75b6&style=flat" alt="Shraddhasingh171" /> </p>
 
 👋 Hi, I’m @Shraddhasingh171.
 
@@ -31,5 +31,16 @@
 
 
 
-
+## My GitHub Stats
 [![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shraddhasingh171&count_private=true&show_icons=true&theme=dracula)](https://github.com/Shraddhasingh171/)
+
+<table float="right">
+  <tr>
+    <td>
+      <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shraddhasingh171&layout=compact&langs_count=8&theme=dracula"/> 
+    </td>
+    <td>
+      <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shraddhasingh171&show_icons=true&locale=en&layout=compact&theme=dracula&line_height=0" />
+    </td>
+  </tr>
+</table>
