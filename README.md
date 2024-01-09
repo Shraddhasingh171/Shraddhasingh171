@@ -1,16 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shraddhasingh171&label=Profile%20views&color=0e75b6&style=flat" alt="Shraddhasingh171" /> 
 <img src="https://badges.pufler.dev/commits/monthly/Shraddhasingh171" />•
-<img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Shraddhasingh?label=Followers&style=social"> • 
-<img src="https://img.shields.io/github/stars/Shraddhasingh171?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •  </p>
 
-👋 Hi, I’m @Shraddhasingh171.
-
-🌱 I’m currently pursuing B.Tech in cse.
-
-💞️ I’m looking to collaborate on C, C++, PYTHON,DSA,WEB-DEVELOPMENT.
-
-📫 How to reach me: linkedin:https://www.linkedin.com/in/shraddha-singh-120b441b4/ , instagram:https://www.instagram.com/si.ngh6106/
-
+<h1 align="center">👋 Hi, I’m @Shraddhasingh171 </h1>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -32,7 +23,6 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 
-<p align="center"> 
  <a href="https://getbootstrap.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a> 
@@ -66,8 +56,6 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </a> 
-</p>
-
 
 
 ## My GitHub Stats
