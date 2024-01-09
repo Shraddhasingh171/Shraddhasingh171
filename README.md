@@ -2,7 +2,6 @@
 <img src="https://badges.pufler.dev/commits/monthly/Shraddhasingh171" />•
 
 <h1 align="center">👋 Hi, I’m @Shraddhasingh171 </h1>
-<img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="400">
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
